@@ -24,9 +24,9 @@ By leveraging JsonPowerDB, the application becomes highly efficient in terms of 
 
 ## Release History
 - **v1.0.0**: Initial release of the project using J[sonPowerDB. The core functionality includes retrieving and saving project data and functionality for updating existing projects
-  - Released on GitHub: [Project Repository v1.0.0]https://github.com/XMrNooBX/JPDB)
+  - Released on GitHub: [Project Repository v1.0.0][(https://github.com/Nidhi-Bhardwaj11/j-db)]
 ## Installation
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/XMrNooBX/JPDB
+   git clone https://github.com/Nidhi-Bhardwaj11/j-db
